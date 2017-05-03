@@ -1,1 +1,7 @@
-pygithub
+python ==3.5
+conda-build
+pygithub >=1.29
+pyyaml
+requests
+setuptools
+tqdm
