@@ -12,3 +12,10 @@
 # TODO deal with license file
 # TODO commit the modified meta.yaml to user/staged-recipes:branch
 # TODO submit pull request to conda-forge/staged-recipes:master as a new recipe.
+
+
+def main():
+  return
+
+if __init__ == "__main__":
+  main()
