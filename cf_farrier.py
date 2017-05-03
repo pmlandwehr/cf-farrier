@@ -1,3 +1,18 @@
+#!/usr/bin/env conda-execute
+
+# conda execute
+# env:
+#  - python ==3.5
+#  - conda-build
+#  - pygithub >=1.29
+#  - pyyaml
+#  - requests
+#  - setuptools
+#  - tqdm
+# channels:
+#  - conda-forge
+# run_with: python
+
 # TODO take package or list of packages
 # TODO take github url or github urls
 # TODO If user doesn't have a fork of conda-forge create one
